@@ -17,8 +17,6 @@ Link to "The Movie Cinema" application: https://the-movie-cinema.herokuapp.com/
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
 
-## Featured in Krish's Live Session on YouTube
-
 ## How to get the API key?
 
 Create an account in https://www.themoviedb.org/, click on the `API` link from the left hand sidebar in your account settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your `API` sidebar once your request is approved.
